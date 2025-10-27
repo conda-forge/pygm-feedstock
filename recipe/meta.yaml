@@ -24,6 +24,7 @@ requirements:
     - python
     - pybind11 >=2.5.0
     - pip
+    - setuptools
     - libgomp  # [linux]
     - llvm-openmp  # [osx]
   run:
